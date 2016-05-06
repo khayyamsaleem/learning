@@ -1,0 +1,5 @@
+characters 177
+lines 4
+words 35
+digits 15
+punctuation 15
